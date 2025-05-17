@@ -1,0 +1,234 @@
+---------------------------------------Simulation parameters----------------------------------------
+Timestep: dt = 1.0 ps.
+Number of atoms per unit cell: Natom = 2.
+Total simulation time: t_tot = 0.0 ns.
+The temperature of interest is 300.0 K.
+The temperature of the two ends cells are: T_hot = 310.0K, T_cold = 290.0K.
+Number of cells along z-direction: Nz = 5.
+The simulation cell dimensions are : Lx = 25.0 nm, Ly = 25.0 nm, Lz = 30.0 nm.
+Volume of the unit cell is : V_u = 5.560e+01 Angstrom^3.
+Volume of the Simulation domain is : V_s = 9.375e+07 Angstrom^3.
+----------------------------------------------------------------------------------------------------
+
+------------------------------------------Data file inputs------------------------------------------
+Successfully read in the phonon wavevector file in the irreducible wedge.
+Successfully read in the phonon wavevector file in the full BZ.
+Successfully read in the phonon dispersion file.
+Successfully read in the phonon velocity file.
+Successfully read in all the ph-ph relaxation time files.
+----------------------------------------------------------------------------------------------------
+The read in cost time: 0.03 s
+
+---------------------------------------System initialization----------------------------------------
+Initializing the system...
+Total number of phonons in the entire simulation domain: 1.67e+07.
+Using the Scaling factor W = 1000000 , the total number of phonons is now 15.
+Number of phonons in the hot cell: 3.
+Number of phonons in the cold cell: 3.
+Finish populating phonons in all the cells.
+The phonon initialization costs time: 0.00 s
+----------------------------------------------------------------------------------------------------
+
+------------------------------------------Advance in time-------------------------------------------
+timestep 1:
+There are 6 phonons that enter the two end cells, therefore number of phonons in the interior cells reduces from 9 to 9.
+Finished updating the temperature and CPDFs of interior cells.
+2 out of 9 phonons are scattered.
+The drift time: 0.00000 s
+The scatter time: 0.00001 s
+The updating cell state time: 0.02503 s
+Finish repopulating the hot and cold cells.
+Total time spent: 0.07 s
+
+timestep 2:
+There are 6 phonons that enter the two end cells, therefore number of phonons in the interior cells reduces from 9 to 9.
+Finished updating the temperature and CPDFs of interior cells.
+0 out of 9 phonons are scattered.
+The drift time: 0.00000 s
+The scatter time: 0.00000 s
+The updating cell state time: 0.02485 s
+Finish repopulating the hot and cold cells.
+Total time spent: 0.10 s
+
+timestep 3:
+There are 6 phonons that enter the two end cells, therefore number of phonons in the interior cells reduces from 9 to 9.
+Finished updating the temperature and CPDFs of interior cells.
+1 out of 9 phonons are scattered.
+The drift time: 0.00000 s
+The scatter time: 0.00000 s
+The updating cell state time: 0.02946 s
+Finish repopulating the hot and cold cells.
+Total time spent: 0.13 s
+
+timestep 4:
+There are 6 phonons that enter the two end cells, therefore number of phonons in the interior cells reduces from 9 to 9.
+Finished updating the temperature and CPDFs of interior cells.
+1 out of 9 phonons are scattered.
+The drift time: 0.00000 s
+The scatter time: 0.00000 s
+The updating cell state time: 0.02487 s
+Finish repopulating the hot and cold cells.
+Total time spent: 0.15 s
+
+timestep 5:
+There are 6 phonons that enter the two end cells, therefore number of phonons in the interior cells reduces from 9 to 9.
+Finished updating the temperature and CPDFs of interior cells.
+1 out of 9 phonons are scattered.
+The drift time: 0.00000 s
+The scatter time: 0.00000 s
+The updating cell state time: 0.02447 s
+Finish repopulating the hot and cold cells.
+Total time spent: 0.18 s
+
+timestep 6:
+There are 6 phonons that enter the two end cells, therefore number of phonons in the interior cells reduces from 9 to 9.
+Finished updating the temperature and CPDFs of interior cells.
+1 out of 9 phonons are scattered.
+The drift time: 0.00000 s
+The scatter time: 0.00000 s
+The updating cell state time: 0.02429 s
+Finish repopulating the hot and cold cells.
+Total time spent: 0.20 s
+
+timestep 7:
+There are 6 phonons that enter the two end cells, therefore number of phonons in the interior cells reduces from 9 to 9.
+Finished updating the temperature and CPDFs of interior cells.
+0 out of 9 phonons are scattered.
+The drift time: 0.00000 s
+The scatter time: 0.00000 s
+The updating cell state time: 0.02444 s
+Finish repopulating the hot and cold cells.
+Total time spent: 0.23 s
+
+timestep 8:
+There are 6 phonons that enter the two end cells, therefore number of phonons in the interior cells reduces from 9 to 9.
+Finished updating the temperature and CPDFs of interior cells.
+1 out of 9 phonons are scattered.
+The drift time: 0.00000 s
+The scatter time: 0.00000 s
+The updating cell state time: 0.02436 s
+Finish repopulating the hot and cold cells.
+Total time spent: 0.25 s
+
+timestep 9:
+There are 6 phonons that enter the two end cells, therefore number of phonons in the interior cells reduces from 9 to 9.
+Finished updating the temperature and CPDFs of interior cells.
+3 out of 9 phonons are scattered.
+The drift time: 0.00000 s
+The scatter time: 0.00000 s
+The updating cell state time: 0.02428 s
+Finish repopulating the hot and cold cells.
+Total time spent: 0.27 s
+
+timestep 10:
+There are 6 phonons that enter the two end cells, therefore number of phonons in the interior cells reduces from 9 to 9.
+Finished updating the temperature and CPDFs of interior cells.
+2 out of 9 phonons are scattered.
+The drift time: 0.00000 s
+The scatter time: 0.00000 s
+The updating cell state time: 0.01501 s
+Finish repopulating the hot and cold cells.
+Total time spent: 0.29 s
+
+timestep 11:
+There are 6 phonons that enter the two end cells, therefore number of phonons in the interior cells reduces from 9 to 9.
+Finished updating the temperature and CPDFs of interior cells.
+0 out of 9 phonons are scattered.
+The drift time: 0.00000 s
+The scatter time: 0.00000 s
+The updating cell state time: 0.01441 s
+Finish repopulating the hot and cold cells.
+Total time spent: 0.30 s
+
+timestep 12:
+There are 6 phonons that enter the two end cells, therefore number of phonons in the interior cells reduces from 9 to 9.
+Finished updating the temperature and CPDFs of interior cells.
+0 out of 9 phonons are scattered.
+The drift time: 0.00000 s
+The scatter time: 0.00000 s
+The updating cell state time: 0.01443 s
+Finish repopulating the hot and cold cells.
+Total time spent: 0.32 s
+
+timestep 13:
+There are 5 phonons that enter the two end cells, therefore number of phonons in the interior cells reduces from 9 to 10.
+Finished updating the temperature and CPDFs of interior cells.
+0 out of 10 phonons are scattered.
+The drift time: 0.00000 s
+The scatter time: 0.00000 s
+The updating cell state time: 0.01446 s
+Finish repopulating the hot and cold cells.
+Total time spent: 0.33 s
+
+timestep 14:
+There are 6 phonons that enter the two end cells, therefore number of phonons in the interior cells reduces from 10 to 10.
+Finished updating the temperature and CPDFs of interior cells.
+0 out of 10 phonons are scattered.
+The drift time: 0.00000 s
+The scatter time: 0.00000 s
+The updating cell state time: 0.01438 s
+Finish repopulating the hot and cold cells.
+Total time spent: 0.35 s
+
+timestep 15:
+There are 7 phonons that enter the two end cells, therefore number of phonons in the interior cells reduces from 10 to 9.
+Finished updating the temperature and CPDFs of interior cells.
+0 out of 9 phonons are scattered.
+The drift time: 0.00000 s
+The scatter time: 0.00000 s
+The updating cell state time: 0.01436 s
+Finish repopulating the hot and cold cells.
+Total time spent: 0.36 s
+
+timestep 16:
+There are 6 phonons that enter the two end cells, therefore number of phonons in the interior cells reduces from 9 to 9.
+Finished updating the temperature and CPDFs of interior cells.
+2 out of 9 phonons are scattered.
+The drift time: 0.00000 s
+The scatter time: 0.00000 s
+The updating cell state time: 0.01443 s
+Finish repopulating the hot and cold cells.
+Total time spent: 0.38 s
+
+timestep 17:
+There are 6 phonons that enter the two end cells, therefore number of phonons in the interior cells reduces from 9 to 9.
+Finished updating the temperature and CPDFs of interior cells.
+0 out of 9 phonons are scattered.
+The drift time: 0.00000 s
+The scatter time: 0.00000 s
+The updating cell state time: 0.01500 s
+Finish repopulating the hot and cold cells.
+Total time spent: 0.39 s
+
+timestep 18:
+There are 6 phonons that enter the two end cells, therefore number of phonons in the interior cells reduces from 9 to 9.
+Finished updating the temperature and CPDFs of interior cells.
+1 out of 9 phonons are scattered.
+The drift time: 0.00000 s
+The scatter time: 0.00000 s
+The updating cell state time: 0.01502 s
+Finish repopulating the hot and cold cells.
+Total time spent: 0.41 s
+
+timestep 19:
+There are 6 phonons that enter the two end cells, therefore number of phonons in the interior cells reduces from 9 to 9.
+Finished updating the temperature and CPDFs of interior cells.
+0 out of 9 phonons are scattered.
+The drift time: 0.00000 s
+The scatter time: 0.00000 s
+The updating cell state time: 0.00518 s
+Finish repopulating the hot and cold cells.
+Total time spent: 0.41 s
+
+timestep 20:
+There are 6 phonons that enter the two end cells, therefore number of phonons in the interior cells reduces from 9 to 9.
+Finished updating the temperature and CPDFs of interior cells.
+0 out of 9 phonons are scattered.
+The drift time: 0.00000 s
+The scatter time: 0.00000 s
+The updating cell state time: 0.00514 s
+----------------------------------------------------------------------------------------------------
+Total time spent: 0.42 s
+
+
+Simulation done...
