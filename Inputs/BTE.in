@@ -1,0 +1,11 @@
+Natom= 2;
+dt=1e-12; //timestep in [s].
+W=1000000; //Number of phonons per simulation cell
+Nstep= 20; //# of timesteps
+T_target=300, d_T=10; //Temperature of interest and the difference used to set up hot and cold cells.
+Tstart=50, Tend=1000, Tincrement=50; //temperatures at which the relaxation time data is available.
+Nz = 5; //# of unitcells along z-direction. Since the cells are periodic along x- and y-direction, only Nz is needed for defining the system dimension.
+Nout=1, Navg=1, Nprint=1;
+Lx = 2.5E-8 ,Ly = 2.5E-8 ,Lz = 3E-8 //dimensions of the unitcell
+V_FC = 55.6e-30; //volume corresponding to phonon dispersion calculations
+

@@ -1,0 +1,72 @@
+1
+The phonon is located in cell: 3
+The phonon frequency: 1.510e+00 THz
+The phonon temperature: 0.0
+The phonon kvector and branch index: q=1056, b=0
+The phonon velocity: vx=-21.414, vy=10.870, vz=-10.870
+The phonon position: x=17.582, y=18.946, z=98.103
+The phonon energy: 1.000e-21 J
+
+2
+The phonon is located in cell: 1
+The phonon frequency: 4.549e+00 THz
+The phonon temperature: 0.0
+The phonon kvector and branch index: q=76, b=2
+The phonon velocity: vx=-557.483, vy=557.483, vz=2037.260
+The phonon position: x=23.209, y=10.323, z=56.109
+The phonon energy: 3.014e-21 J
+
+3
+The phonon is located in cell: 2
+The phonon frequency: 6.523e+00 THz
+The phonon temperature: 0.0
+The phonon kvector and branch index: q=926, b=4
+The phonon velocity: vx=84.718, vy=56.321, vz=-52.301
+The phonon position: x=18.962, y=13.336, z=83.879
+The phonon energy: 4.322e-21 J
+
+4
+The phonon is located in cell: 1
+The phonon frequency: 1.402e+00 THz
+The phonon temperature: 0.0
+The phonon kvector and branch index: q=215, b=0
+The phonon velocity: vx=651.580, vy=-56.245, vz=-467.718
+The phonon position: x=20.305, y=8.016, z=41.474
+The phonon energy: 9.292e-22 J
+
+5
+The phonon is located in cell: 1
+The phonon frequency: 1.505e+00 THz
+The phonon temperature: 0.0
+The phonon kvector and branch index: q=1489, b=0
+The phonon velocity: vx=-218.981, vy=175.473, vz=810.643
+The phonon position: x=6.833, y=0.900, z=55.707
+The phonon energy: 9.969e-22 J
+
+6
+The phonon is located in cell: 1
+The phonon frequency: 1.491e+00 THz
+The phonon temperature: 0.0
+The phonon kvector and branch index: q=1391, b=0
+The phonon velocity: vx=-547.476, vy=-510.808, vz=-300.772
+The phonon position: x=15.435, y=1.052, z=32.869
+The phonon energy: 9.878e-22 J
+
+7
+The phonon is located in cell: 2
+The phonon frequency: 6.421e-01 THz
+The phonon temperature: 0.0
+The phonon kvector and branch index: q=1595, b=0
+The phonon velocity: vx=0.000, vy=-2163.761, vz=0.000
+The phonon position: x=11.499, y=0.078, z=68.210
+The phonon energy: 4.255e-22 J
+
+8
+The phonon is located in cell: 2
+The phonon frequency: 0.000e+00 THz
+The phonon temperature: 0.0
+The phonon kvector and branch index: q=0, b=0
+The phonon velocity: vx=0.000, vy=0.000, vz=0.000
+The phonon position: x=5.601, y=12.588, z=85.021
+The phonon energy: 0.000e+00 J
+
